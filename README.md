@@ -19,9 +19,9 @@ CSS
 
 ## Contact
 
-[Link text](https://github.com/shinhye-ji})
+<https://github.com/shinhye-ji>
 
 ## Live Link
 
-[Link text](https://shinhye-ji.github.io/portfolio/)
+<https://shinhye-ji.github.io/portfolio/>
 
